@@ -35,7 +35,14 @@ Max.      | 85    | 83      |
 2Q (50%)  | 75    | 71      |
 3Q (75%)  | 77    | 74      |
 
-Some other things to think about analyzing is
-- Wave / Swell highs and lows
-- Festivities in Oahu
-- Surfing contests throughout the year
+From this table, the only huge difference is the Minimum Temperature. December is 9 degrees lower than June, and this would definitely affect the number of customers that come by the shop. Not that many people would want to be in the water in that cold weather. However, the maximum temperatures are relatively close together. They're also ample temperatures for customers to visit the beach and surf, leading to good business for the shop. The average temperatures are in the lower 70s. This range doesn't cater to the likings of many customers, but there are people that like to surf in this weather. Either way, if the temperatures range from average to maximum temperatures, at least in the months of June and December, there will be enough business. However, when temperatures drop, that is when business will most likely be slow. I think it's still worth keeping the shop open during December since "-ber" months are normally the best months for surfing in tropical countries.
+
+Temperature, however, is not the only thing that would drive traffic and business. There are a few other factors that are worth analyzing.
+
+#### Festivites
+One would be to check the festivities that happen in Oahu that revolve around surfing and beaches. Knowing what goes on in the city would be helpful to determine which months the shop should expect more traffic.
+
+#### Wave / Swell Data
+If there is access to this data, looking at the peak months of swells and waves would be helpful to look at. Knowing when the waves are highest will definitely be information W. Avy would want to know to be more invested.
+
+These are two things that would be useful for further analysis, and would be worth looking into.
